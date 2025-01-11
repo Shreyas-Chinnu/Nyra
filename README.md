@@ -7,6 +7,7 @@ Nyra can assist with a wide range of commands, making it your versatile digital 
 1.General Greetings:
 
   "Hello" / "Hey",
+  
   "Who are you?",
   "What is your purpose?".
 
