@@ -7,7 +7,6 @@ Nyra can assist with a wide range of commands, making it your versatile digital 
 1.General Greetings:
 
   "Hello" / "Hey",
-  
   "Who are you?",
   "What is your purpose?".
 
@@ -55,8 +54,11 @@ Nyra can assist with a wide range of commands, making it your versatile digital 
 Nyra utilizes a combination of web technologies to create a responsive and intuitive interface:
 
 JavaScript: Powers the logic and interactivity.
+
 HTML: Structures the content on the page.
+
 CSS: Adds sleek design and animations for a polished look.
+
 🚀 Live Demo
 Nyra is now live on GitHub Pages! Try it out and explore its functionalities.
 
