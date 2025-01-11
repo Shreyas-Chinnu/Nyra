@@ -6,48 +6,48 @@ Nyra can assist with a wide range of commands, making it your versatile digital 
 
 1.General Greetings:
 
-  "Hello" / "Hey"
-  "Who are you?"
-  "What is your purpose?"
+  "Hello" / "Hey",
+  "Who are you?",
+  "What is your purpose?".
 
 2. Open Websites:
 
-  "Open YouTube"
-  "Open Google"
-  "Open Facebook"
-  "Open Instagram"
-  "Open WhatsApp"
-  "Open LinkedIn"
-  "Open GitHub"
+  "Open YouTube",
+  "Open Google",
+  "Open Facebook",
+  "Open Instagram",
+  "Open WhatsApp",
+  "Open LinkedIn",
+  "Open GitHub".
 
 3. Information About Nyra:
 
-  "What is your name?"
-  "Who is your creator?"
-  "What is your version?"
-  "When were you created?"
-  "What is your language?"
-  "What is your operating system?"
+  "What is your name?",
+  "Who is your creator?",
+  "What is your version?",
+  "When were you created?",
+  "What is your language?",
+  "What is your operating system?".
 
 4. Fun and Casual Interactions:
 
-  "Do you like singing?"
-  "Do you like music?"
-  "Motivate me!"
-  "Can you help me with my studies?"
-  "Can you help me with my career guidance?"
+  "Do you like singing?",
+  "Do you like music?",
+  "Motivate me!",
+  "Can you help me with my studies?",
+  "Can you help me with my career guidance?".
 
 5. Time and Date Queries:
 
-  "What time is it?"
-  "What month are we in now?"
-  "What is today’s date?"
-  "What day is today?"
+  "What time is it?",
+  "What month are we in now?",
+  "What is today’s date?",
+  "What day is today?".
 
 6. Unique Commands:
 
-  "How do I connect with your creator?"
-  "How do I collaborate with your developer?"
+  "How do I connect with your creator?",
+  "How do I collaborate with your developer?",
   "This is what I found on the internet regarding [message]."
 
 💻 How Nyra Works
